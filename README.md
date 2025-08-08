@@ -5,27 +5,6 @@ Includes **JWT-based authentication**, **Zustand** for global state management, 
 
 ---
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Architecture (high-level)](#architecture-high-level)
-- [Project Structure](#project-structure)
-- [Environment Variables (.env)](#environment-variables-env)
-- [Local Setup & Build (Step-by-step)](#local-setup--build-step-by-step)
-- [Running Development](#running-development)
-- [Production Build & Deployment](#production-build--deployment)
-- [Authentication & Authorization](#authentication--authorization)
-- [Real-Time Messaging (Socket.io)](#real-time-messaging-socketio)
-- [Global State (Zustand)](#global-state-zustand)
-- [Error Handling Strategy](#error-handling-strategy)
-- [Security & Best Practices](#security--best-practices)
-- [Testing & Debugging Tips](#testing--debugging-tips)
-- [Contributing](#contributing)
-- [License & Contact](#license--contact)
-
----
-
 ## Overview
 This repository provides a professional-grade, production-minded real-time chat application. It focuses on reliability, security, and developer ergonomics:
 - Persistent chats stored in MongoDB
@@ -89,4 +68,5 @@ npm run build
 ```shell
 npm start
 ```
+
 
